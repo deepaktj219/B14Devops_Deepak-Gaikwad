@@ -1,1 +1,1 @@
-This message is updated from Branch A
+This message is updated from Branch B
