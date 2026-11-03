@@ -1,5 +1,7 @@
 hello all good morning
-so this is good morning
+B
+B
+so thi  s is good morning
 this is a pattern this is a file
 TT is demo
 t to demostrate the pattern replacement
